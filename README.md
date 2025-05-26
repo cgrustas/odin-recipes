@@ -1,13 +1,4 @@
-# odin-recipes
-
-This is a basic recipe website. It consists of a home page and links to 3 recipe pages. 
-Each recipe has an image of the finished dish, a description, a list of ingredients, 
-and a list of steps. 
-
-Through this project, I learned the basics of HTML, how to clone a git repository on my 
-computer, how to make atomic commits, and how to navigate with the command line. 
-
-# Recipe Website
+# Odin Recipes
 
 ## Project Overview
 
