@@ -28,3 +28,12 @@ a:hover {
     background-color: #023E8A;
     color: white;
 }
+
+h3 {
+    margin: 20px;
+}
+
+ol li,
+ul li {
+    text-align: left;
+}
