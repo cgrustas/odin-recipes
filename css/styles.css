@@ -1,0 +1,23 @@
+* {
+    color: #023E8A;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #CAF0F8;
+}
+
+a {
+    display: inline-block;
+    background-color: yellow;
+    width: 33%;
+    padding: 40px;
+    text-decoration: none;
+    font-family: Tahoma;
+    text-transform: uppercase;
+    color: #023E8A;
+    background-color: #90E0EF;
+}
+
+a:hover {
+    background-color: #023E8A;
+    color: white;
+}
